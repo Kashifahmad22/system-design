@@ -42,3 +42,6 @@ It constantly does the health check of each of the server so that It get's the i
 1.It keeps the count of no. of pending rquests of each server,picks the server with least no. of server request pending.
 2.Keeps counts internally.
 3.It also does weighted distribution .
+
+#what if the  load balancer fails itself
+this is the reason why companies have multiple load balancers , so if one fails they can distribute the traffic to other load balancer.
