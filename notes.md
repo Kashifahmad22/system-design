@@ -31,3 +31,9 @@ adding more powerful device , when added can't be configued and also the prices 
 2. Horizontal Scaling 
 adding more number of servers , wehn added each server has the copy of the application and can run independantly and can reduce the load and is preffered for scaling applications and balancing the load.
 2.any number of servers can be added whenever required.
+
+#What is a Load balancer 
+1.It's just a server running an application and it's primary use is to receive the request and send to one of the server.
+2.It's the type of reverse proxy 
+3.How does the load balancer stops itself , sending a reques to a dead server. 
+It constantly does the health check of each of the server so that It get's the idea of dead server before sending the rquest.
