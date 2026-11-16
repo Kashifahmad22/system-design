@@ -12,3 +12,9 @@ the candidate must ask followup questions like :
 2.Is the app ready heavy or write heavy
 3.The data should Never lost
 4.speed is the primary objective 
+
+types of systems/architecture:
+1.monolith 
+One codebase , one deploy
+one running thing 
+each function call each other 
