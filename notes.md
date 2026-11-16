@@ -5,3 +5,10 @@ Begore Designing anything always ask these questions:-
 3.What can you never Loose 
 4.how much latency can you afford 
 5.what does it cost 
+
+If the intervier asks design an an app 
+the candidate must ask followup questions like :
+1. who is this for (user base) and the e3xact no. of users 
+2.Is the app ready heavy or write heavy
+3.The data should Never lost
+4.speed is the primary objective 
