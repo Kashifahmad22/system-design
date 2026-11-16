@@ -33,15 +33,30 @@ adding more number of servers , wehn added each server has the copy of the appli
 2.any number of servers can be added whenever required.
 
 #What is a Load balancer 
+
 1.It's just a server running an application and it's primary use is to receive the request and send to one of the server.
 2.It's the type of reverse proxy 
 3.How does the load balancer stops itself , sending a reques to a dead server. 
 It constantly does the health check of each of the server so that It get's the idea of dead server before sending the rquest.
 
 #How does a load balancer picks a server?
+
 1.It keeps the count of no. of pending rquests of each server,picks the server with least no. of server request pending.
 2.Keeps counts internally.
 3.It also does weighted distribution .
 
 #what if the  load balancer fails itself
-this is the reason why companies have multiple load balancers , so if one fails they can distribute the traffic to other load balancer.
+
+This is the reason why companies have multiple load balancers , so if one fails they can distribute the traffic to other load balancer.
+
+#Stateful and stateless
+
+1.Stateful -Server keeps the data in it's own memory on it's own local disk or inn a shared disk.
+2.Stateless - server does't keep the data on it's own memory.
+
+Stateless and stateful
+1.Login data-Stateful
+2.Uplodaing a photo-Stateless
+
+Random logout:-
+ 
