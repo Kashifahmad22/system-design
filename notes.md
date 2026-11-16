@@ -24,3 +24,10 @@ each function call each other
 2.each program is deployed separately over their separate server 
 3.independant scaling 
 4.the system divided into teams the team can work separately without disturbing each other's work.
+
+#Types of scaling 
+1. Vertical Scaling 
+adding more powerful device , when added can't be configued and also the prices don't increase in st. line so when the prices increase , moving to horizontal scaling is difficult.
+2. Horizontal Scaling 
+adding more number of servers , wehn added each server has the copy of the application and can run independantly and can reduce the load and is preffered for scaling applications and balancing the load.
+2.any number of servers can be added whenever required.
