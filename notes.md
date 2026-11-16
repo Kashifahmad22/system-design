@@ -18,3 +18,9 @@ types of systems/architecture:
 One codebase , one deploy
 one running thing 
 each function call each other 
+
+2. Microservices
+1.split onto many programs 
+2.each program is deployed separately over their separate server 
+3.independant scaling 
+4.the system divided into teams the team can work separately without disturbing each other's work.
