@@ -1,5 +1,5 @@
-THis is system design notes:
-Begore Designing anything always ask these questions:-
+This is system design notes:
+Before Designing anything always ask these questions:-
 1.How many users and How fastly the user base is increasing 
 2.Read Heavy or write heavy
 3.What can you never Loose 
