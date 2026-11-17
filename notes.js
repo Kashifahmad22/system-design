@@ -12,3 +12,13 @@ const functionName = () => {
      console.log(`Hello, ${username}`);
  }  
 };
+
+const username = 'kashif';
+const age = 24;
+const isAdmin = true;
+
+function greet() {
+    console.log(`Hello, ${username}`);
+}
+
+greet();
