@@ -22,3 +22,8 @@ function greet() {
 }
 
 greet();
+
+console.log(age);
+console.log(isAdmin);
+console.log(username);  
+
