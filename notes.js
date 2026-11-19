@@ -12,7 +12,7 @@ const functionName = () => {
      console.log(`Hello, ${username}`);
  }
 
-
+}
 function greet() {
     console.log(`Hello, ${username}`);
 }
