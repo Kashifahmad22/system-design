@@ -23,7 +23,8 @@ function greet() {
 
 greet();
 
-
+console.log(username);
+greet();
 
 
 
