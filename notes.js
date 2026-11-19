@@ -25,6 +25,6 @@ greet();
 
 console.log(age);
 console.log(isAdmin);
-console.log(username);  
+
 
 console.log('End of script');
