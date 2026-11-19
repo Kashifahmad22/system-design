@@ -5,7 +5,7 @@ var a = 12;
 var username = 'kashif';
 
 var age=24;
-var isAdmin = true;
+var points;
 
 const functionName = () => {
  greet = () => {
