@@ -23,7 +23,7 @@ function greet() {
 
 greet();
 
-console.log(age);
+
 
 
 
