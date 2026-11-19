@@ -3,7 +3,7 @@
 var a = 12;
 
 var username = 'kashif';
-
+let age = 24;
 
 
 
