@@ -17,7 +17,7 @@ function greet() {
     console.log(`Hello, ${username}`);
 }
 
-greet();
+
 
 console.log(username);
 greet();
