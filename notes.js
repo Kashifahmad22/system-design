@@ -10,11 +10,7 @@ let age = 24;
 const functionName = () => {
  greet = () => {
      console.log(`Hello, ${username}`);
- }  
-};
-
-const username = 'kashif';
-
+ }
 
 
 function greet() {
