@@ -14,7 +14,7 @@ const functionName = () => {
 };
 
 const username = 'kashif';
-const age = 24;
+
 
 
 function greet() {
